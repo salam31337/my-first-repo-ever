@@ -1,3 +1,5 @@
+<img align="left" width="120" alt="salam31337 selfie" src="age-verification.git">
+
 # This is my first time on the internet
 
 > *Sent from my toaster. Please excuse any crumbs.*
@@ -5,8 +7,6 @@
 ---
 
 ## 👵 Please be patient with me
-
-<img align="left" width="120" alt="salam31337 selfie" src="age-verification.git">
 
 Hello world,
 
