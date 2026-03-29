@@ -1,5 +1,3 @@
-![salam31337 selfie](age-verification.git)
-
 # This is my first time on the internet
 
 > *Sent from my toaster. Please excuse any crumbs.*
@@ -7,6 +5,8 @@
 ---
 
 ## 👵 Please be patient with me
+
+<img align="left" width="100" height="100" alt="salam31337 selfie" src="age-verification.gif">
 
 Hello world,
 
