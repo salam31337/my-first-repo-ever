@@ -6,7 +6,7 @@
 
 ## 👵 Please be patient with me
 
-<img align="left" width="100" height="100" alt="salam31337 selfie" src="age-verification.git">
+<img align="left" width="120" alt="salam31337 selfie" src="age-verification.git">
 
 Hello world,
 
