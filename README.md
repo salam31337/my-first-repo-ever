@@ -1,4 +1,4 @@
-~[salam31337 selfie](age-verification.git)
+![salam31337 selfie](age-verification.git)
 
 # This is my first time on the internet
 
